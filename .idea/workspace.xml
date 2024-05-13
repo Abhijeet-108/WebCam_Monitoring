@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00b3a7bd-5515-4072-8b8b-a8f68f8f1176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/WebCam_Monitoring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sender.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentProject/Motion_Detector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentProject/simple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Untitled design.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="00b3a7bd-5515-4072-8b8b-a8f68f8f1176" name="Changes" comment="added readme file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Abhijeet-108"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Abhijeet-108/WebCam_Monitoring.git",
+    "accountId": "1c4e72c6-9181-4f83-a8e1-9c44b63ca035"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -119,6 +116,37 @@
       <option name="presentableId" value="Default" />
       <updated>1715531633133</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit adding resources">
+      <option name="closed" value="true" />
+      <created>1715567235529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715567235540</updated>
+    </task>
+    <task id="LOCAL-00002" summary="completed motion detector camera">
+      <option name="closed" value="true" />
+      <created>1715567286868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715567286868</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added readme file">
+      <option name="closed" value="true" />
+      <created>1715567608884</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715567608884</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit adding resources" />
+    <MESSAGE value="completed motion detector camera" />
+    <MESSAGE value="added readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="added readme file" />
   </component>
 </project>
