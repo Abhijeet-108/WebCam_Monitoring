@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00b3a7bd-5515-4072-8b8b-a8f68f8f1176" name="Changes" comment="add">
+    <list default="true" id="00b3a7bd-5515-4072-8b8b-a8f68f8f1176" name="Changes" comment="added Motion_Detector.py in student project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentProject/Motion_Detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/StudentProject/Motion_Detector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sender.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sender.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array.txt" beforeDir="false" afterPath="$PROJECT_DIR$/StudentProject/array.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/StudentProject/image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images.py" beforeDir="false" afterPath="$PROJECT_DIR$/images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +51,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Motion_Detector.executor": "Run",
+    "Python.Sender.executor": "Run",
     "Python.images.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\WebCam_Monitoring\StudentProject" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="Motion_Detector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="WebCam_Monitoring" />
@@ -68,6 +78,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StudentProject/Motion_Detector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sender" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WebCam_Monitoring" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sender.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,6 +155,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.Sender" />
         <item itemvalue="Python.Motion_Detector" />
       </list>
     </recent_temporary>
@@ -175,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715580576928</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added Motion_Detector.py in student project">
+      <option name="closed" value="true" />
+      <created>1715582408506</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715582408506</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -183,6 +224,7 @@
     <MESSAGE value="completed motion detector camera" />
     <MESSAGE value="added readme file" />
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="added Motion_Detector.py in student project" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Motion_Detector.py in student project" />
   </component>
 </project>
