@@ -3,7 +3,7 @@ from email.message import EmailMessage
 from PIL import Image
 from io import BytesIO
 
-PASSWORD = "kruy mztb chsn ayec"
+PASSWORD = "buvj oepp cmvv advx"
 SENDER = "abhijeetkr889@gmail.com"
 RECEIVER = "abhijeetkr889@gmail.com"
 
